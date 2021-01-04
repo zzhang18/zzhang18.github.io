@@ -4,7 +4,11 @@ A homepage repo
 # Github Home
 The homepage for https://zzhang18.github.io/ linking to various repos
 
-[![zzhang18's github stats](https://github-readme-stats.vercel.app/api?username=zzhang18)](https://github.com/zzhang18/github-readme-stats)
+![zzhang18's github stats](https://github-readme-stats.vercel.app/api?username=zzhang18)
+
+![](https://github-readme-stats.vercel.app/api?username=zzhang18&count_private=true&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhang18&layout=compact)
 
 ## Links
 - [Booking users](https://zzhang18.github.io/booking)
