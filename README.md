@@ -4,14 +4,14 @@ A homepage repo
 # Github Home
 The homepage for https://zzhang18.github.io/ linking to various repos
 
-![](https://github-readme-stats.vercel.app/api?username=zzhang18&count_private=true&show_icons=true)
+[]: #  ![](https://github-readme-stats.vercel.app/api?username=zzhang18&count_private=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhang18&layout=compact)
+[]: #  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhang18&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sziv2p&show_icons=true" alt="my github stats" width="420"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zzhang18&show_icons=true" alt="my github stats" width="420"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sziv2p&layout=compact" alt="my top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzhang18&layout=compact" alt="my top languages" height="165">
 </p>
 
 
